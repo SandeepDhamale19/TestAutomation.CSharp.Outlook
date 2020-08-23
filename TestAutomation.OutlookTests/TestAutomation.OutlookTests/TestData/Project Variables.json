@@ -1,0 +1,49 @@
+{
+  "Browser": "chrome",
+  //Environment: qa/ rc/ iat
+  "Environment": "qa",
+  "ExecuteRemotely": "No",
+  "EnableDefectLogging": false,
+
+  "UpdateAzureTests": false, // Mark true only when require to execute automated scripts on Azure DevOps.
+  "ProjectTeamName": "Test.Automation",
+  "AzureTestPlanId": "14816", // Replace with Test Plan Id
+  "AzureTestSuiteId": "38730", // Replace with Suite Id
+
+  // Environments
+  // QA
+  "ApplicationURLOutlookTests": "https://www.sogeti.com/globalassets/global/downloads/testing/test-automation-brochure_2014-11-05_v07.pdf",
+
+  //RC
+  "ApplicationURLOutlookTestsRC": "",
+
+  //IAT
+  "ApplicationURLOutlookTestsIAT": "",
+
+  // Prod
+  "ApplicationURLOutlookTestsPROD": "",
+
+  // Timeout
+  "DefaultTimeout": 30,
+
+  // API URLs
+  //QA - API
+  "ApiBaseUrlOutlookTests": "",
+
+  //RC - API
+  "ApiBaseUrlOutlookTestsRC": "",
+
+
+  //IAT - API
+  "ApiBaseUrlOutlookTestsIAT": "",
+
+  //PROD - API
+  "ApiBaseUrlOutlookTestsPROD": "",
+
+  //Auth URLs
+  "AuthURLOutlookTests": "",
+
+  //API Resources
+  "ApiResourceUrl": ""
+
+}

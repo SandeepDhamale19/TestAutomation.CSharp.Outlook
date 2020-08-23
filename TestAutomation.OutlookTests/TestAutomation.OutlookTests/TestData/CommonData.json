@@ -1,0 +1,11 @@
+{
+  "SmptClient": "smtp-mail.outlook.com",
+  "SenderEmail": "Captain.America@Hotmail.com",
+  "SenderPassword": "MyPass@123",
+  "RecieverEmail": "Captain.America@Hotmail.com",
+  "CcEmail": "Captain.America@yahoo.com",
+  "Subject": "Test Automation",
+  "Body": "This is an test email.\n Please refer <a href='https://github.com/SandeepDhamale19'>Github</a> for more info.",
+  "Attachment": "\\TestAutomation.OutlookTests\\Files\\TestFile.txt"
+
+}
