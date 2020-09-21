@@ -32,10 +32,12 @@ Install-Package Test.Automation.Framework -Version 1.0.0.5
     ▪ Attachments    
 ##### ▪ Save Outlook emails to hard drive
 ##### ▪ Read Outlook emails
+##### ▪ Read Outlook emails (line by line)
 ##### ▪ Read/ Search Outlook emails from any Outlook folder
 ##### ▪ Get Outlook folder List
 ##### ▪ Save Attachments
 ##### ▪ Verify Attachments
+##### ▪ Click required links within an email
 
 
 
