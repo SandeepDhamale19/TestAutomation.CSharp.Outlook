@@ -1,4 +1,4 @@
-# <img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/transparent-outlook-icon-2.png" alt="Selenium C# PDF"> Selenium-C#-Specflow-Outlook-Tests 
+# <img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/transparent-outlook-icon-2.png" alt="Selenium C# PDF" width="60" height="60"> Selenium-C#-Specflow-Outlook-Tests 
 UI Tests using Selenium, C#, Specflow and Outlook
 
 ### Usage
